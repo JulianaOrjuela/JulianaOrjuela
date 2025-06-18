@@ -8,17 +8,14 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block"> Hi👋, I'm Juliana </h1></summary>
+    <summary><h1 style="display: inline-block: align="center">>  Hi👋, I'm Juliana </h1>  </summary>
   </ul>
 
-
-
-Hii my name is Juliana, i am 17 years old 
-I am a student at Nacional University for Colombia, I am in my first semester of computer science.
-I chose my career because I am passionate about programming and I also really like video games.
-
-
-
+    
+- 🤔 Hii my name is Juliana, i am 17 years old.    
+- 💻 I am in my first semester of Computer Science.
+- 📝 I am a student at Nacional University for Colombia.
+- 🌱 I chose my career because I am passionate about programming and I also really like video games.
 
 
 
@@ -31,6 +28,7 @@ I chose my career because I am passionate about programming and I also really li
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PSeInt](https://img.shields.io/badge/PSeInt-005F9E?style=flat-square&logo=code&logoColor=white)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools

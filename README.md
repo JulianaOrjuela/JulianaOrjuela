@@ -1,20 +1,17 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--h1 without bottom border-->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
 
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi👋, I'm Juliana </h1></summary>
   </ul>
-</div>
 
 
-<!--About Me-->
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 Hii my name is Juliana, i am 17 years old 
 I am a student at Nacional University for Colombia, I am in my first semester of computer science.

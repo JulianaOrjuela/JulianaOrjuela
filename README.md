@@ -16,14 +16,18 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+Hii my name is Juliana, i am 17 years old 
+I am a student at Nacional University for Colombia, I am in my first semester of computer science.
+I chose my career because I am passionate about programming and I also really like video games.
+
+
+
+
+
 
 <br>
+
+
 
 ## 🛠️ My Skills
 
@@ -42,7 +46,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+
 
 
